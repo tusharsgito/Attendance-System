@@ -23,7 +23,7 @@ Attendance Management System based on Face Recognition using Python and OpenCv
 - it will create `.csv` file of attendance according to time & subject.
 - You can store data in database (install wampserver),change the DB name according to your in `AMS_Run.py`.
 - `Manually Fill Attendance` Button in UI is for fill a manually attendance (without facce recognition),it's also create a `.csv` and store in a database.
-
+- To check Registered student login with username=admin, password=123
 ### Screenshots
 
 ### Basic UI
